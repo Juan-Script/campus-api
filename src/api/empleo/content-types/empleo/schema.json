@@ -1,0 +1,36 @@
+{
+  "kind": "collectionType",
+  "collectionName": "empleos",
+  "info": {
+    "singularName": "empleo",
+    "pluralName": "empleos",
+    "displayName": "Empleo"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "titulo": {
+      "type": "string"
+    },
+    "lugar": {
+      "type": "string"
+    },
+    "jornada": {
+      "type": "string"
+    },
+    "modalidad": {
+      "type": "string"
+    },
+    "salario": {
+      "type": "string"
+    },
+    "empresa": {
+      "type": "string"
+    },
+    "imagen": {
+      "type": "string"
+    }
+  }
+}
