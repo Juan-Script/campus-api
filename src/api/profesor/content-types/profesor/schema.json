@@ -1,0 +1,28 @@
+{
+  "kind": "collectionType",
+  "collectionName": "profesors",
+  "info": {
+    "singularName": "profesor",
+    "pluralName": "profesors",
+    "displayName": "Profesor",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "descripcion": {
+      "type": "string"
+    },
+    "Nombre": {
+      "type": "string"
+    },
+    "Email": {
+      "type": "string"
+    },
+    "avatar": {
+      "type": "string"
+    }
+  }
+}
