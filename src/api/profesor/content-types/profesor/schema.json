@@ -23,6 +23,12 @@
     },
     "avatar": {
       "type": "string"
+    },
+    "especialidad": {
+      "type": "string"
+    },
+    "icon": {
+      "type": "string"
     }
   }
 }
