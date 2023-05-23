@@ -29,6 +29,9 @@
     },
     "icon": {
       "type": "string"
+    },
+    "imagen": {
+      "type": "string"
     }
   }
 }
